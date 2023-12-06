@@ -3,7 +3,7 @@
 How to store your eurorack cables on a microphone stand.
 Just remove the clamp, install the stand and tighten it with the clamp.
 
-Show you the project with the lasercutted poplar plywood
+Show you the project with the lasercutted poplar plywood 5 mm thickness
 
 <img src='Pictures/Cable_Holder_1.jpg' width='200px'/>
 

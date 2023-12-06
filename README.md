@@ -3,18 +3,19 @@
 How to store your eurorack cables on a microphone stand.
 Just remove the clamp, install the stand and tighten it with the clamp.
 
-![20231206_084130](https://github.com/dubhalley/Cable_Holder/assets/5200123/1306e1d6-97cb-41a6-8c7b-862a673c1f08)
+Show you the project with the lasercutted poplar plywood
 
 <img src='Pictures/20231206_084116.jpg' width='200px'/>
 
 # Pictures
 
-Show you the project, start with a screenshot of the Freecad drawing.
+The pictures in situation
 
-Then the lasercutted poplar plywood
+<img src='Pictures/20231206_084130.jpg' width='200px'/>
 
-And the pictures in situation
+<img src='Pictures/20231206_084145.jpg' width='200px'/>
 
+<img src='Pictures/20231206_113757.jpg' width='200px'/>
 
 # Files
 

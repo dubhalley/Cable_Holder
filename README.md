@@ -5,6 +5,7 @@ Just remove the clamp, install the stand and tighten it with the clamp.
 
 ![20231206_084130](https://github.com/dubhalley/Cable_Holder/assets/5200123/1306e1d6-97cb-41a6-8c7b-862a673c1f08)
 
+Pictures/20231206_084145.jpg
 
 # Pictures
 

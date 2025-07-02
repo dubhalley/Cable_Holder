@@ -5,17 +5,34 @@ Just remove the clamp, install the stand and tighten it with the clamp.
 
 Show you the project with the lasercutted poplar plywood 5 mm thickness
 
+Here the first version
+
 <img src='Pictures/Cable_Holder_1.jpg' width='200px'/>
+
+
+After some time in use, I realized that the support could accommodate more cable.
+
+But adding grooves makes the bracket more flexible, so I opted for a larger diameter with fewer grooves, as this adds rigidity.
+
+I also added some logos, because I like Saturn :) and for fun I added the length of the cables on either side of the grooves.
+
+Here the second version
+
+<img src='Pictures/Cable_Holder_V2_1.jpg' width='200px'/>
 
 # Pictures
 
-The pictures in situation
+The pictures of version 1 in situation
 
 <img src='Pictures/Cable_Holder_2.jpg' width='200px'/>
 
 <img src='Pictures/Cable_Holder_3.jpg' width='200px'/>
 
 <img src='Pictures/Cable_Holder_4.jpg' width='200px'/>
+
+Here the version 2 in situation
+
+<img src='Pictures/Cable_Holder_V2_2.jpg' width='200px'/>
 
 # Files
 

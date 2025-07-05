@@ -18,7 +18,7 @@ I also added some logos, because I like Saturn :) and for fun I added the length
 
 Here the second version
 
-<img src='Pictures/Cable_Holder_V2_1.jpg' width='200px'/>
+<img src='Pictures/Cable_Holder_V2_1.png' width='200px'/>
 
 # Pictures
 
